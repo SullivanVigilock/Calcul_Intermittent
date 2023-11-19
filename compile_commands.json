@@ -1,0 +1,9 @@
+[{
+  "file": "/home/sullivan/Documents/Calcul_Intermittent/Calcul_Intermittent/main.c",
+  "directory": "/home/sullivan/Documents/Calcul_Intermittent/Calcul_Intermittent",
+  "command": "/usr/bin/gcc -c /home/sullivan/Documents/Calcul_Intermittent/Calcul_Intermittent/main.c -o /home/sullivan/Documents/Calcul_Intermittent/Calcul_Intermittent/main.c.o -target x86_64-solus-linux -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/sullivan/Documents/Calcul_Intermittent/Calcul_Intermittent/main.h",
+  "directory": "/home/sullivan/Documents/Calcul_Intermittent/Calcul_Intermittent",
+  "command": "/usr/bin/g++ -c /home/sullivan/Documents/Calcul_Intermittent/Calcul_Intermittent/main.h -o /home/sullivan/Documents/Calcul_Intermittent/Calcul_Intermittent/main.h.o -target x86_64-solus-linux -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
